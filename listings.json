@@ -1,0 +1,30 @@
+[
+    {
+       "id": 1,
+       "name":"Toma Taco",
+       "description":"Unpretentious outlet doling out classic tacos, burritos & Mexican sandwiches in a colorful space.", 
+       "hours":"7AM - 10PM",
+       "address":"179 S L B J Dr, San Marcos, TX 78666"
+    },
+    {
+       "id": 2,
+       "name":"Loli's Cafe",
+       "description":"Known for their delicious breakfast tacos, Loli's Cafe has been a San Marcos' staple since it opened in 2005.",
+       "hours":"5AM - 2:30PM",
+       "address":"1501 Aquarena Springs Dr, San Marcos, TX 78666"
+    },
+    {
+       "id": 3,
+       "name":"Bobcat Quickie Tacos",
+       "description":"Bobcat Quickie operates inside of Exxon gas station between the square and campus, selling tradition.",
+       "Hours":"24 Hours",
+       "address":"339 N Guadalupe St, San Marcos, TX 78666"
+    },
+    {
+       "id": 4,
+       "name":"Taqueria a La Fonda",
+       "description":"Our exclusive drive-thru service ensures you can savor our delicious breakfast tacos.",
+       "hours":"4:30AM - 2PM",
+       "address":"1204 S Interstate 35, San Marcos, TX 78666"
+    }
+]
