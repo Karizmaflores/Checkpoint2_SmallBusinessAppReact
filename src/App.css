@@ -24,6 +24,11 @@ ul {
   margin: 50px 0;
 }
 
+.add-car {
+  background: #4caf50 !important;
+  color: white !important;
+}
+
 .icon {
   font-size: medium !important;
 }
@@ -49,10 +54,10 @@ ul {
   margin: auto 20px;
 }
 
-.listing-container {
+.car-container {
   margin: 50px;
 }
 
-.listing-paper {
+.car-paper {
   padding: 50px;
 }
