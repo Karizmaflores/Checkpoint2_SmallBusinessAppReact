@@ -17,7 +17,7 @@ const Home = (props) => {
                   </CardContent>
                   <Divider />
                   <CardActions style={{ color: 'mediumblue' }}>
-                      <Link to={`/listing/${listing.id}`}>See More Details</Link>
+                      <Link to={`/listings/${listing.id}`}>See More Details</Link>
                   </CardActions>
               </Card>
           ))}

@@ -4,17 +4,19 @@ import store from './redux/store';
 import './App.css'
 import Home from './containers/Home';
 import { BrowserRouter } from 'react-router-dom'
+import Router from './Router'
 
 
 function App() {
 
   return (
-    <BrowserRouter>
     <Provider store={store}>
+    <BrowserRouter>
       <Navigation />
-      <Home />
+      <Router />
+      </BrowserRouter>
     </Provider>
-    </BrowserRouter>
+    
   )
 }
 
